@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lisajusticehall
 - 👀 I’m interested in ... data analytics
-- 🌱 I’m currently mastering ... SQL, C#, and R
+- 🌱 I’m currently mastering ... SQL, C#, Python and R
 - 💞️ I’m looking to collaborate in ... healthcare
 - 📫 How to reach me ... www.linkedin.com/in/lisajusticehall
 
